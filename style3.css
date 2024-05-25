@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header{
+
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 8px;
+}
+a {
+    
+    text-decoration: none;
+}
+h1{
+    color: aqua;
+    border: 2px solid blue;
+    border-radius: 10px;
+    text-align: center;
+}
+
+footer{
+    background-color:aqua;
+    padding: 8px;
+    border-radius: 8px;
+
+}
+footer p{
+    background-color: white;
+}
+
+nav{
+
+    background-color: aqua;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 8px;
+    text-align: center;
+}
+
+nav a{
+text-decoration: none;
+padding: 5px;
+color: black;
+
+}
+
+.qq{
+    background-color: aqua;
+    border-radius: 10px;
+    padding: 8px;
+}
